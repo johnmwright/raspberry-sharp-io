@@ -211,5 +211,189 @@ namespace Raspberry.IO.GeneralPurpose
         /// </summary>
         P5Pin06 = P5Pin6,
 
+
+
+        /// <summary>
+        /// BCM Pin 2
+        /// </summary>
+        GPIO2 = P1Pin03,
+
+
+        /// <summary>
+        /// BCM Pin 2
+        /// </summary>
+        GPIO02 = GPIO2,
+
+
+        /// <summary>
+        /// BCM Pin 3
+        /// </summary>
+        GPIO3 = P1Pin05,
+
+        /// <summary>
+        /// BCM Pin 3
+        /// </summary>
+        GPIO03 = GPIO3,
+
+
+        /// <summary>
+        /// BCM Pin 4
+        /// </summary>
+        GPIO4 = P1Pin07,
+
+        /// <summary>
+        /// BCM Pin 4
+        /// </summary>
+        GPIO04 = GPIO4,
+
+
+        /// <summary>
+        /// BCM Pin 5
+        /// </summary>
+        GPIO5 = P1Pin29,
+
+        /// <summary>
+        /// BCM Pin 5
+        /// </summary>
+        GPIO05 = GPIO5,
+
+
+        /// <summary>
+        /// BCM Pin 6
+        /// </summary>
+        GPIO6 = P1Pin31,
+
+        /// <summary>
+        /// BCM Pin 6
+        /// </summary>
+        GPIO06 = GPIO6,
+
+
+        /// <summary>
+        /// BCM Pin 7
+        /// </summary>
+        GPIO7 = P1Pin24,
+
+        /// <summary>
+        /// BCM Pin 7
+        /// </summary>
+        GPIO07 = GPIO7,
+
+
+        /// <summary>
+        /// BCM Pin 8
+        /// </summary>
+        GPIO8 = P1Pin26,
+
+        /// <summary>
+        /// BCM Pin 8
+        /// </summary>
+        GPIO08 = GPIO8,
+
+
+        /// <summary>
+        /// BCM Pin 9
+        /// </summary>
+        GPIO9 = P1Pin21,
+
+
+        /// <summary>
+        /// BCM Pin 9
+        /// </summary>
+        GPIO09 = GPIO9,
+
+
+        /// <summary>
+        /// BCM Pin 10
+        /// </summary>
+        GPIO10 = P1Pin19,
+
+
+        /// <summary>
+        /// BCM Pin 11
+        /// </summary>
+        GPIO11 = P1Pin23,
+
+
+        /// <summary>
+        /// BCM Pin 12
+        /// </summary>
+        GPIO12 = P1Pin32,
+
+        /// <summary>
+        /// BCM Pin 13
+        /// </summary>
+        GPIO13 = P1Pin33,
+
+        /// <summary>
+        /// BCM Pin 14
+        /// </summary>
+        GPIO14 = P1Pin8,
+
+        /// <summary>
+        /// BCM Pin 15
+        /// </summary>
+        GPIO15 = P1Pin10,
+
+        /// <summary>
+        /// BCM Pin 16
+        /// </summary>
+        GPIO16 = P1Pin36,
+
+        /// <summary>
+        /// BCM Pin 17
+        /// </summary>
+        GPIO17 = P1Pin11,
+
+        /// <summary>
+        /// BCM Pin 18
+        /// </summary>
+        GPIO18 = P1Pin12,
+
+        /// <summary>
+        /// BCM Pin 19
+        /// </summary>
+        GPIO19 = P1Pin35,
+
+        /// <summary>
+        /// BCM Pin 20
+        /// </summary>
+        GPIO20 = P1Pin38,
+
+        /// <summary>
+        /// BCM Pin 21
+        /// </summary>
+        GPIO21 = P1Pin40,
+
+        /// <summary>
+        /// BCM Pin 22
+        /// </summary>
+        GPIO22 = P1Pin15,
+
+        /// <summary>
+        /// BCM Pin 23
+        /// </summary>
+        GPIO23 = P1Pin16,
+
+        /// <summary>
+        /// BCM Pin 24
+        /// </summary>
+        GPIO24 = P1Pin18,
+
+        /// <summary>
+        /// BCM Pin 25
+        /// </summary>
+        GPIO25 = P1Pin22,
+
+        /// <summary>
+        /// BCM Pin 26
+        /// </summary>
+        GPIO26 = P1Pin37,
+
+        /// <summary>
+        /// BCM Pin 27
+        /// </summary>
+        GPIO27 = P1Pin13,
+
     }
 }
